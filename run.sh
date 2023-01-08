@@ -35,7 +35,7 @@ Nodes:
       Timeout: 30 
       EnableVless: false 
       EnableXTLS: false 
-      SpeedLimit: 58
+      SpeedLimit: 0
       DeviceLimit: 0
       RuleListPath: # /etc/XrayR/rulelist
     ControllerConfig:
@@ -73,7 +73,7 @@ Nodes:
       Timeout: 30 
       EnableVless: false 
       EnableXTLS: false 
-      SpeedLimit: 73
+      SpeedLimit: 0
       DeviceLimit: 0
       RuleListPath: # /etc/XrayR/rulelist
     ControllerConfig:
